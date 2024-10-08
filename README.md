@@ -8,7 +8,7 @@ MVC, POO, BD relacionais e não relacionais entre outras tecnologias, onde apliq
 conhecimento, encontrando e corrigindo erros. Venho praticando em projetos reais me 
 aperfeiçoando com um aprendizado ativo.
 Mais valioso do que qualquer salário, é o conhecimento, experiência adquirida.<br>
-Atualmente estou estudando Nodejs e javascript, além de continuar praticando PHP.</p><br>
+Atualmente estou estudando Nodejs, além de continuar praticando PHP.</p><br>
 
 ###
 
